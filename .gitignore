@@ -1,0 +1,35 @@
+
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de bytecode Java
+*.jar
+*.war
+*.ear
+
+# Diretório de saída do Eclipse
+bin/
+
+# Diretório de saída do IntelliJ IDEA
+out/
+.idea/
+
+# Diretório de saída do NetBeans
+build/
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Arquivos gerados pelo Maven
+target/
+
+# Logs e arquivos temporários
+*.log
+*.swp
+
+# Arquivos de configuração do sistema
+.gradle/
+build/
