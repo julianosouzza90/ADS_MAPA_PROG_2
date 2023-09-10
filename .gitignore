@@ -23,6 +23,12 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
+nbproject/project.xml
+manifest.mf
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/project.properties
+ nbproject/project.xml
 # Arquivos gerados pelo Maven
 target/
 
